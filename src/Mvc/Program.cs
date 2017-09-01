@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 
 namespace Mvc
 {
-    public class Program
+    public class Program 
     {
         public static void Main(string[] args)
         {
