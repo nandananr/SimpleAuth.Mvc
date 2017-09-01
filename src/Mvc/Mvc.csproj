@@ -6,8 +6,7 @@
     <AssemblyName>Mvc</AssemblyName>
     <OutputType>Exe</OutputType>
     <PackageId>Mvc</PackageId>
-    <RuntimeFrameworkVersion>1.1.1</RuntimeFrameworkVersion>
-    <PackageTargetFallback>$(PackageTargetFallback);dotnet5.6;portable-net45+win8</PackageTargetFallback>
+    <RuntimeFrameworkVersion>1.1.1</RuntimeFrameworkVersion>    
   </PropertyGroup>
 
   <ItemGroup>
